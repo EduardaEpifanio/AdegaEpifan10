@@ -30,8 +30,7 @@ Tudo de forma simples, rápida e sem precisar baixar aplicativo.
 
 ## 🌐 Acesse o site
 
-🔗 [https://seunome.github.io/adegaepifanio](https://seunome.github.io/adegaepifanio)  
-*(Substitua com seu link real do GitHub Pages)*
+🔗 (https://seunome.github.io/adegaepifanio](https://github.com/EduardaEpifanio/AdegaEpifan10/
 
 ---
 
